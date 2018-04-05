@@ -39,7 +39,7 @@
 </ul>
 <p>When you talk about all the sh*t you’ve been through. All your accomplishments, conquests, challenges and passions, if you don’t mention the topic of your thesis, you probably don’t love it. Choose something that made your eyes glow (?) when you talked about it.</p>
 <ul>
-<li><strong>So you think you found a topic you love</strong></li>
+<li><strong>You found a topic you love beyond any questioning</strong></li>
 </ul>
 <p>It is something that touches your heart deeply. The perfect policy to cure all problems of the world, designed by someone you love with all your heart. Then, in the middle of your thesis you discover dirt on the policy that directly implies the person you love.</p>
 <p>And now you have a nice conflict of interest to handle in the middle of your thesis.</p>
