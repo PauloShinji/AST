@@ -61,7 +61,7 @@
 <p>And things might change a little</p>
 <p><img src="https://media.giphy.com/media/e7MM7D8ff8LVC/giphy.gif" alt="Alt Text"></p>
 <p>And this is good. That is how you acquire the skills you need to be a master.</p>
-<p><img src="https://media.giphy.com/media/MbkDUSk5QW98s/giphy.gif" alt="Alt Text"></p>
+<p><img src="https://media.giphy.com/media/km1r0Bd48d76o/giphy.gif" alt="Alt Text"></p>
 <p>So our journey begins.</p>
 <p>There are a few exercises and tips that we will show on Sunday that we hope will make the steps of the way easier and even more enjoyable.</p>
 <p>Hope to see you there.</p>
