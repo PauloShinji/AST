@@ -57,12 +57,12 @@
 <p><img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Alt Text"></p>
 <h3 id="and-write">And write</h3>
 <p><img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" alt="Alt Text"></p>
-<p>And when you think you got it, go talk to someone (a friend, your supervisor, or the AST)</p>
-<p>And things might change a little</p>
+<p><strong>And when you think you got it, go talk to someone (a friend, your supervisor, or the AST)</strong></p>
+<h3 id="and-things-might-change-a-little">And things might change a little</h3>
 <p><img src="https://media.giphy.com/media/e7MM7D8ff8LVC/giphy.gif" alt="Alt Text"></p>
 <h3 id="and-this-is-good.-that-is-how-you-acquire-the-skills-you-need-to-be-a-master.">And this is good. That is how you acquire the skills you need to be a master.</h3>
 <p><img src="https://media.giphy.com/media/km1r0Bd48d76o/giphy.gif" alt="Alt Text"></p>
-<p>So our journey begins.</p>
+<h3 id="so-our-journey-begins.">So our journey begins.</h3>
 <p>There are a few exercises and tips that we will show on Sunday that we hope will make the steps of the way easier and even more enjoyable.</p>
 <p>Hope to see you there.</p>
 <p>Yours sincerely,</p>
