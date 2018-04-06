@@ -52,13 +52,12 @@
 <p>🙀</p>
 <p>Of course that’s normal. Many people change their topic over and over. What is important is have a general idea</p>
 <p>So you have to sit down and put one word after the other.</p>
-<p><img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Alt Text"></p>
 <p>It is that easy and that hard.</p>
 <p>So you write</p>
 <p><img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Alt Text"></p>
 <p>And write</p>
 <p><img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" alt="Alt Text"></p>
-<p>And when you think you got it, go talk to someone (a friend, your supervisor, or the marvelous Academic Support Team)</p>
+<p>And when you think you got it, go talk to someone (a friend, your supervisor, or the AST)</p>
 <p>And things might change a little</p>
 <p><img src="https://media.giphy.com/media/e7MM7D8ff8LVC/giphy.gif" alt="Alt Text"></p>
 <p>And this is good. That is how you acquire the skills you need to be a master.</p>
@@ -66,4 +65,7 @@
 <p>So our journey begins.</p>
 <p>There are a few exercises and tips that we will show on Sunday that we hope will make the steps of the way easier and even more enjoyable.</p>
 <p>Hope to see you there.</p>
+<p>Yours sincerely,</p>
+<p>AST</p>
+<p><img src="https://lh5.googleusercontent.com/Fr4tVTIZlvoq_ww2qSKJYsvadgCGsZBGIWf2EK-g2D1vYo_9dHcnvc3DqMFPlmebdc-hOFpQYJo7_zyeGnCtxKgA9z3PyO4ODT_PcfNKxRiHoK1kv4TblqWvr1vLyVUMrrHVvPop" alt=""></p>
 
