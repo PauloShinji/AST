@@ -15,7 +15,7 @@
 <ul>
 <li><strong>Well delimited</strong>.</li>
 </ul>
-<p>A Brief History of Time (Hawking, 1988) would probably receive a failing grade, had it not been written by Hawking. A work that is too broad is vulnerable to every sort of objection, I mean, how could a member of the committee resist the temptation to show the knowledge over a minor event absent from a student’s work? Be bold, but be humble.</p>
+<p>A Brief History of Time (Hawking, 1988) would probably receive a failing grade, had it not been written by Hawking. A work that is too broad is vulnerable to every sort of objection, I mean, how could a member of the committee resist the temptation to showcase his/her knowledge over a minor event absent from a student’s work? Be bold, but be humble.</p>
 <p>For example, if you want to discuss “violence against women”, you can delimit one specific instrument that is helping combat it and analyse how is it working in practical means or not. How is it being well implemented or not. You know that your thesis will not be a final word on the matter, but should be meaningful and delimited to the constraints of efforts and time.</p>
 <ul>
 <li><strong>Capable of being completed in time</strong></li>
@@ -23,28 +23,47 @@
 <p>Draw a realistic time table. Do not assume you will read post-colonial-econo-anthropology as fast as you read the Prisoner of Azkaban (and you won’t have a time-turner).</p>
 <p><img src="https://media.giphy.com/media/EQ0Xz9qiN5x7y/giphy.gif" alt="Alt Text"></p>
 <ul>
-<li><strong>Not colonialist</strong></li>
+<li><strong>Non-colonialist</strong></li>
 </ul>
-<p>This point comes from Eco’s “How to write a thesis”, he says that to have a workable thesis, you must understand the main languages related to it (so if you will write about Kant, you must know German), but he makes a notorious exception to “non-western languages”, so you could write about the Tunisian Revolution without knowing any arabic. <strong>We strongly invite you to question his opinion</strong>!!! This is both an ideological and a pragmatic approach. However, if you are interested in “why”, or if you <em>really</em> want to work in a theme that the core bibliography is in a language you don’t speak, have a look at the footnote.</p>
+<p>This point comes from Eco’s “How to write a thesis”, where he states that to have a workable thesis, you must understand the main languages related to it (so if you will write about Kant, you must know German).But he makes a notorious exception to “non-western languages”, so you could write about the Tunisian Revolution without knowing any arabic. <strong>We invite you to question his opinion</strong>!!! This is both an ideological and a pragmatic approach. However, if you are interested in “why”, or if you <em>really</em> want to work in a theme that the core bibliography is in a language you don’t speak, have a look at the footnote.</p>
 <p>Now a thesis that you love ❤️</p>
 <h2 id="a-thesis-that-you-love-is">A thesis that you love is:</h2>
 <p>Much harder to be put in bullet points. 😕</p>
 <ul>
 <li><strong>Let’s begin by saying that thesis have meanings</strong></li>
 </ul>
-<p>To say that a thesis you love is meaningful is coaching work, because I believe that is quite obvious. One of the meanings of the thesis is that it is an outcome of two years of your life, from the second you stepped in your grad school, that is what has been expected of you - no pressure.</p>
-<p>But more than that,</p>
+<p>To say that a thesis you love is meaningful is pretty much part of a pep talk, because I believe that is quite obvious. One of the meanings of the thesis is that it is an outcome of two years of your life. Even with the expectation of a thesis by the end of your studies, your time here has many other meanings, and ideally, your topic will correspond to those meanings.</p>
 <ul>
 <li><strong>A thesis you love is a thesis you are happy to include in you life story</strong></li>
 </ul>
-<p>When you talk about all the sh*t you’ve been through. All your accomplishments, conquests, challenges and passions, if you don’t mention the topic of your thesis, you probably don’t love it. Choose something that made your eyes glow (?) when you talked about it.</p>
+<p>When you talk about all the sh*t you’ve been through; all your accomplishments, conquests, challenges and passions, if you don’t mention the topic of your thesis, you probably don’t love it. Choose something that made your eyes glow (?) when you talked about it.</p>
 <ul>
 <li><strong>You found a topic you love beyond any questioning</strong></li>
 </ul>
-<p>It is something that touches your heart deeply. The perfect policy to cure all problems of the world, designed by someone you love with all your heart. Then, in the middle of your thesis you discover dirt on the policy that directly implies the person you love.</p>
-<p>And now you have a nice conflict of interest to handle in the middle of your thesis.</p>
+<p>It is something that touches your heart deeply. The perfect policy to cure all problems of the world,designed by someone you love with all your heart. Even better, it was created by your late grandfather. Then, in the middle of your thesis you discover dirt on the policy that directly implies the person you love, writing about it would bring a major quarrel in the centre of your family.</p>
+<p>And then, because the topic involves someone you love so much, you have a nice conflict of interest to handle, and while suffering through the usual trials and tribulations of a normal thesis.</p>
 <p><img src="https://media1.tenor.com/images/ca7b53444c251cb9077262df94c16238/tenor.gif?itemid=9335496" alt="Alt Text"></p>
-<p>So maybe you want to think about that.</p>
-<p>It is worth saying that a thesis that is only a compilation of flyers and propaganda isn’t much of a thesis either. Putting in Eco’s words: “A politician who approves a development plan without sufficient information on the community’s situation is simply a fool, if not a criminal. Similarly, one can betray his political party by writing a political thesis that lacks scientific rigor”.</p>
+<p>So maybe you want to think about that. AND DECIDE WHETHER YOU WANT TO CHANGE THE TOPIC</p>
+<p>It is worth saying that a thesis that is only a compilation of flyers and propaganda isn’t much of a thesis either. Putting in Eco’s words: “A politician who approves a development plan without sufficient information on the community’s situation is simply a fool, if not a criminal”. Similarly, one can betray their agenda by writing a political thesis that lacks scientific rigor.</p>
 <p>This is not to say that your topic cannot be politically engaged, but it has to be responsibly engaged.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>After reading these 700 words, you already have your topic figured out, right?!</p>
+<p>Sh*t? No?!</p>
+<p>🙀</p>
+<p>Of course that’s normal. Many people change their topic over and over. What is important is have a general idea</p>
+<p>So you have to sit down and put one word after the other.</p>
+<p><img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" alt="Alt Text"></p>
+<p>It is that easy and that hard.</p>
+<p>So you write</p>
+<p><img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Alt Text"></p>
+<p>And write</p>
+<p><img src="https://media.giphy.com/media/11xBk5MoWjrYoE/giphy.gif" alt="Alt Text"></p>
+<p>And when you think you got it, go talk to someone (a friend, your supervisor, or the marvelous Academic Support Team)</p>
+<p>And things might change a little</p>
+<p><img src="https://media.giphy.com/media/e7MM7D8ff8LVC/giphy.gif" alt="Alt Text"></p>
+<p>And this is good. That is how you acquire the skills you need to be a master.</p>
+<p><img src="https://media.giphy.com/media/MbkDUSk5QW98s/giphy.gif" alt="Alt Text"></p>
+<p>So our journey begins.</p>
+<p>There are a few exercises and tips that we will show on Sunday that we hope will make the steps of the way easier and even more enjoyable.</p>
+<p>Hope to see you there.</p>
 
