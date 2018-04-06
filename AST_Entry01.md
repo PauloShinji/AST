@@ -38,7 +38,7 @@
 </ul>
 <p>When you talk about all the sh*t you’ve been through; all your accomplishments, conquests, challenges and passions, if you don’t mention the topic of your thesis, you probably don’t love it. Choose something that made your eyes glow (?) when you talked about it.</p>
 <ul>
-<li><strong>You found a topic you love beyond any questioning</strong></li>
+<li><strong>You found a topic you love beyond any questioning!? Be aware of conflicts of interest!</strong></li>
 </ul>
 <p>It is something that touches your heart deeply. The perfect policy to cure all problems of the world,designed by someone you love with all your heart. Even better, it was created by your late grandfather. Then, in the middle of your thesis you discover dirt on the policy that directly implies the person you love, writing about it would bring a major quarrel in the centre of your family.</p>
 <p>And then, because the topic involves someone you love so much, you have a nice conflict of interest to handle, and while suffering through the usual trials and tribulations of a normal thesis.</p>
@@ -66,6 +66,6 @@
 <p>There are a few exercises and tips that we will show on Sunday that we hope will make the steps of the way easier and even more enjoyable.</p>
 <p>Hope to see you there.</p>
 <p>Yours sincerely,</p>
-<p>AST</p>
+<p>Gris, the AST Mascot</p>
 <p><img src="https://lh5.googleusercontent.com/Fr4tVTIZlvoq_ww2qSKJYsvadgCGsZBGIWf2EK-g2D1vYo_9dHcnvc3DqMFPlmebdc-hOFpQYJo7_zyeGnCtxKgA9z3PyO4ODT_PcfNKxRiHoK1kv4TblqWvr1vLyVUMrrHVvPop" alt=""></p>
 
