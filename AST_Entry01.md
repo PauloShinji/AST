@@ -25,7 +25,7 @@
 <ul>
 <li><strong>Non-colonialist</strong></li>
 </ul>
-<p>This point comes from Eco’s “How to write a thesis”, where he states that to have a workable thesis, you must understand the main languages related to it (so if you will write about Kant, you must know German).But he makes a notorious exception to “non-western languages”, so you could write about the Tunisian Revolution without knowing any arabic. <strong>We invite you to question his opinion</strong>!!! This is both an ideological and a pragmatic approach. However, if you are interested in “why”, or if you <em>really</em> want to work in a theme that the core bibliography is in a language you don’t speak, have a look at the footnote.</p>
+<p>This point comes from Eco’s “How to write a thesis”, where he states that to have a workable thesis, you must understand the main languages related to it (so if you will write about Kant, you must know German).But he makes a notorious exception to “non-western languages”, so you could write about the Tunisian Revolution without knowing any arabic. <strong>We invite you to question his opinion</strong>!!! This is both an ideological and a pragmatic approach. However, if you are interested in “why”, or if you <em>really</em> want to work in a theme that the core bibliography is in a language you don’t speak, have a look at this <a href="https://github.com/PauloShinji/AST/blob/master/AST_Entry01.1.md">note</a>.</p>
 <p>Now a thesis that you love ❤️</p>
 <h2 id="a-thesis-that-you-love-is">A thesis that you love is:</h2>
 <p>Much harder to be put in bullet points. 😕</p>
