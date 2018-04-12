@@ -13,7 +13,7 @@
 <h2 id="theory-stuff-or-“how-to-make-your-supervisor-proud”">Theory Stuff (or, “how to make your supervisor proud”)</h2>
 <h3 id="primary-vs-secondary-sources">Primary vs Secondary sources</h3>
 <p>Primary vs Secondary choices!? Ohh, not again…</p>
-<p><img src="https://media.giphy.com/media/cURnlRTnJfBomwwdau/giphy.gif" alt="Alt Text"></p>
+<p><img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" alt="Alt Text"></p>
 <p>But why do people talk so much about it? It must have <em>some</em> importance.</p>
 <p><em><strong>It does.</strong></em></p>
 <ul>
