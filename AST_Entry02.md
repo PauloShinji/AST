@@ -106,7 +106,7 @@ And follow the same procedure as before with Sci-Hub.</p>
 <p>Finally, you may have noticed that we did not talk about interviews or production of statistics. It is true. Future entries will cover your role as an active actor in the production of data, but not this one.</p>
 <p>Next week we’ll show how to filter what’s important and how to organize it properly.</p>
 <p>With lots of luf! ❤️</p>
-<p>Gris</p>
+<p>Gris 🐱</p>
 <p><img src="https://lh3.googleusercontent.com/0yTPbV6_BfH3xYxCaMhdbGU4sWlOWlj3Edj_VED4BpfmXBI5nKg_Nn408NC9gzUOX4zGhjE6FAA" alt="enter image description here"></p>
 <p><em><strong>Bibliography</strong></em></p>
 <p>Eco, Umberto, Caterina Mongiat Farina, Geoff Farina, e Francesco Erspamer. 2015. How to Write a Thesis. MIT Press. <a href="http://www.jstor.org/stable/j.ctt17kk9g5">http://www.jstor.org/stable/j.ctt17kk9g5</a>.</p>
