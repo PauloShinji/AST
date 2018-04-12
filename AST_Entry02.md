@@ -53,8 +53,8 @@
 <p>Here is a <a href="https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines">decent compilation</a></p>
 <p>Now, you used all these tools, found <em>that</em> key article without which your thesis will be forever incomplete.</p>
 <p>But the article is paid. You hit a <strong>paywall</strong>.</p>
-<p><img src="https://lh3.googleusercontent.com/duzKOeDAytSwlsXtpAKRdFLB_y9I__9okhyl8uylLPD6o_T_CR75x0X0ovZHMm9SzxMpZDDpk_o" alt="enter image description here"><br>
-<img src="https://media.giphy.com/media/uCLrqp14d6JH2/giphy.gif" alt="Alt Text"></p>
+<p><img src="https://lh3.googleusercontent.com/duzKOeDAytSwlsXtpAKRdFLB_y9I__9okhyl8uylLPD6o_T_CR75x0X0ovZHMm9SzxMpZDDpk_o" alt="enter image description here"></p>
+<p><img src="https://media.giphy.com/media/uCLrqp14d6JH2/giphy.gif" alt="Alt Text"></p>
 <p>Well…</p>
 <h2 id="get-around-the-pay-wall">Get around the pay wall!!!</h2>
 <p>How?</p>
@@ -64,40 +64,40 @@
 </ul>
 <p>(Ltd [s.d.]), (“Unpaywall” [s.d.])</p>
 <p>This shows you if you have a way to access the given article for free. And this is legal!</p>
-<p>All you have to do is click on the links above and install<br>
-<img src="https://lh3.googleusercontent.com/A9D8Uin-khVUblO41sxeHLngrqJMjWehO6lWhym2AOwol9IogWClyc6KOvX97ovpGw5edNZ_ndc" alt="Kopernio"><br>
-<img src="https://lh3.googleusercontent.com/99ZuEwmI9ec6pLK26nSWy_SMjZOk5zsPpzvQ9IfKzgyvDXPaCUbebkrRxkwruMULZCnfxMrTFUs" alt="Unpaywall"><br>
-And now your own browser shows you if you have access to the article, with only one click.<br>
-<img src="https://lh3.googleusercontent.com/lc-Ig48x8oNqh1JR_LNbdGIkhnzuIkHeqRe4uINJJCbVPE5Z7zcAer23Ji917J2E0qT8o_VpLxM" alt="enter image description here"></p>
+<p>All you have to do is click on the links above and install</p>
+<p><img src="https://lh3.googleusercontent.com/A9D8Uin-khVUblO41sxeHLngrqJMjWehO6lWhym2AOwol9IogWClyc6KOvX97ovpGw5edNZ_ndc" alt="Kopernio"></p>
+<p><img src="https://lh3.googleusercontent.com/99ZuEwmI9ec6pLK26nSWy_SMjZOk5zsPpzvQ9IfKzgyvDXPaCUbebkrRxkwruMULZCnfxMrTFUs" alt="Unpaywall"></p>
+<p>And now your own browser shows you if you have access to the article, with only one click.</p>
+<p><img src="https://lh3.googleusercontent.com/lc-Ig48x8oNqh1JR_LNbdGIkhnzuIkHeqRe4uINJJCbVPE5Z7zcAer23Ji917J2E0qT8o_VpLxM" alt="enter image description here"></p>
 <p><strong>Of course, sometimes even that isn’t enough.</strong></p>
 <p><img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Alt Text"></p>
 <ul>
 <li><strong>In those cases, some people resort to <a href="https://sci-hub.tw/">Sci-Hub</a> and <a href="http://libgen.io">LibGen</a></strong>*</li>
 </ul>
-<p>To use <strong>Sci-Hub</strong>, you have to copy the COI of the article you want<br>
-<img src="https://lh3.googleusercontent.com/IMD0ogOiQQGDfTylnyLZekAlDTzlD2jnei4dLiLIMkJW5Iwipf78ADEj9EaX4AS6ifMbN31XGQc" alt="enter image description here"><br>
-Then you paste the COI to Sci-Hub<br>
-<img src="https://lh3.googleusercontent.com/9_L0ioPRcAGUNKda5TTvNrsJJhxVO-SPi96hPwBorfIWp6uhIjX63os1N-KPzQXJrBTHcI43k8M" alt="enter image description here"><br>
-This window will show, and you click on the name of the article<br>
-<img src="https://lh3.googleusercontent.com/rixdRhsWYW5-6FrsMf00yuoAiEKC7hW-HQJ4wj9V3Qeruc2YmINiIvsglmQN_HuR-vcISQF0CO0" alt="enter image description here"><br>
-After that, you only have to click in “get”<br>
-<img src="https://lh3.googleusercontent.com/NK_M4G8ob8IOb9fXM6ZBJdNuFo9auDl3JfoiSwbDwuFjqqF1vPbydDSKGUZdbGYEMycqfLlYpXg" alt="enter image description here"><br>
-Or you can use libgen</p>
-<p>To do it you have to find the book’s isbn and past it to the libgen searcher. Mark “ISBN” in the session “Search in Fields”<br>
-<img src="https://lh3.googleusercontent.com/4_bEv0o27mVf1hBlS_llq_s2q0co8PPY4sQgDEZSeDyvUJvObe2mrTdrjgXiVFuWQocmd0JgdiY" alt="enter image description here"><br>
-Click on the title<br>
-<img src="https://lh3.googleusercontent.com/fogvzT7ZIMesVcfNsOe-iS335OVD453k7ZkL1aUxxAs0flykD2wSZ4631RIA_SCH5ub8mqNsve4" alt="enter image description here"><br>
-And follow the same procedure as before with Sci-Hub.</p>
+<p>To use <strong>Sci-Hub</strong>, you have to copy the COI of the article you want</p>
+<p><img src="https://lh3.googleusercontent.com/IMD0ogOiQQGDfTylnyLZekAlDTzlD2jnei4dLiLIMkJW5Iwipf78ADEj9EaX4AS6ifMbN31XGQc" alt="enter image description here"></p>
+<p>Then you paste the COI to Sci-Hub</p>
+<p><img src="https://lh3.googleusercontent.com/9_L0ioPRcAGUNKda5TTvNrsJJhxVO-SPi96hPwBorfIWp6uhIjX63os1N-KPzQXJrBTHcI43k8M" alt="enter image description here"></p>
+<p>This window will show, and you click on the name of the article</p>
+<p><img src="https://lh3.googleusercontent.com/rixdRhsWYW5-6FrsMf00yuoAiEKC7hW-HQJ4wj9V3Qeruc2YmINiIvsglmQN_HuR-vcISQF0CO0" alt="enter image description here"></p>
+<p>After that, you only have to click in “get”</p>
+<p><img src="https://lh3.googleusercontent.com/NK_M4G8ob8IOb9fXM6ZBJdNuFo9auDl3JfoiSwbDwuFjqqF1vPbydDSKGUZdbGYEMycqfLlYpXg" alt="enter image description here"></p>
+<p>Or you can use libgen</p>
+<p>To do it you have to find the book’s isbn and past it to the libgen searcher. Mark “ISBN” in the session “Search in Fields”</p>
+<p><img src="https://lh3.googleusercontent.com/4_bEv0o27mVf1hBlS_llq_s2q0co8PPY4sQgDEZSeDyvUJvObe2mrTdrjgXiVFuWQocmd0JgdiY" alt="enter image description here"></p>
+<p>Click on the title</p>
+<p><img src="https://lh3.googleusercontent.com/fogvzT7ZIMesVcfNsOe-iS335OVD453k7ZkL1aUxxAs0flykD2wSZ4631RIA_SCH5ub8mqNsve4" alt="enter image description here"></p>
+<p>And follow the same procedure as before with Sci-Hub.</p>
 <p>Not that I would know. I have never used such ways, but I thought I ought to share the knowledge.</p>
 <p>One more quick thing. And it is something that I <strong>do not</strong> recommend. <em>But</em> If you spoke with your supervisor and you are researching in more tense topics – such as the Daesh – and both of you agreed to dig deeper, you will some point end up in the dark web.</p>
-<p>The browser to navigate there is called TOR, and I insist you speak to responsible people before diving too deep.</p>
+<p>The browser to navigate there is called TOR, and I insist you speak to responsible people before diving too deep. Furthermore, TOR is illegal in some countries, so be smart about it!</p>
 <p>That being said, there is no harm in experimenting some anonymous search, so if that makes you curious, let us know and I can help you with the first steps.</p>
 <p><img src="https://lh3.googleusercontent.com/bDdFeiIOzHn-Pf4U0qXOapzN_wX_LL1Q5bnVpo1ify8dA3hFzGEPC9gs1p2X2KxWGFEYEjOWSqo" alt="enter image description here"></p>
 <h2 id="conclusion">Conclusion</h2>
 <p>Sorry, today’s entry was a bit too long. But you made it!!</p>
 <p><img src="https://media.giphy.com/media/3ohfFDPhabUskDp67e/giphy.gif" alt="Alt Text"></p>
 <p>I hope that with these tools you will be able to find all the articles you need for your thesis and your papers.</p>
-<p>Now what you gotta do is sit in a confortable position</p>
+<p>Now what you gotta do is sit in a comfortable position</p>
 <p><img src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="Alt Text"></p>
 <p><strong>And start using those tools.</strong></p>
 <p>Because it takes time to find good databases, and a tool is only as good as the person using it.</p>
@@ -105,9 +105,6 @@ And follow the same procedure as before with Sci-Hub.</p>
 <p>Therefore, do not be afraid to search like crazy, as long as you are focused.</p>
 <p>Finally, you may have noticed that we did not talk about interviews or production of statistics. It is true. Future entries will cover your role as an active actor in the production of data, but not this one.</p>
 <p>Next week we’ll show how to filter what’s important and how to organize it properly.</p>
-<p>With lots of luf! ❤️</p>
-<p>Gris 🐱</p>
-<p><img src="https://lh3.googleusercontent.com/0yTPbV6_BfH3xYxCaMhdbGU4sWlOWlj3Edj_VED4BpfmXBI5nKg_Nn408NC9gzUOX4zGhjE6FAA" alt="enter image description here"></p>
 <p><em><strong>Bibliography</strong></em></p>
 <p>Eco, Umberto, Caterina Mongiat Farina, Geoff Farina, e Francesco Erspamer. 2015. How to Write a Thesis. MIT Press. <a href="http://www.jstor.org/stable/j.ctt17kk9g5">http://www.jstor.org/stable/j.ctt17kk9g5</a>.</p>
 <p>“Library Genesis”. [s.d.]. Acessado 11 de abril de 2018. <a href="http://libgen.io/">http://libgen.io/</a>.</p>
