@@ -61,7 +61,7 @@
 <p>How?</p>
 <p>With these tools, of course!</p>
 <ul>
-<li><strong><a href="https://kopernio.com/">Kopernio</a></strong> and **<a href="http://unpaywall.org/">Unpaywall</a> **</li>
+<li><strong><a href="https://kopernio.com/">Kopernio</a></strong> and <strong><a href="http://unpaywall.org/">Unpaywall</a></strong></li>
 </ul>
 <p>(Ltd [s.d.]), (“Unpaywall” [s.d.])</p>
 <p>This shows you if you have a way to access the given article for free. And this is legal!</p>
