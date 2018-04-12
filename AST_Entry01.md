@@ -63,7 +63,7 @@
 <h3 id="and-this-is-good.-that-is-how-you-acquire-the-skills-you-need-to-be-a-master.">And this is good. That is how you acquire the skills you need to be a master.</h3>
 <p><img src="https://media.giphy.com/media/km1r0Bd48d76o/giphy.gif" alt="Alt Text"></p>
 <h3 id="so-our-journey-begins.">So our journey begins.</h3>
-<p>There are a few exercises and tips that we will show on Sunday (Apr. 8) that we hope will make the steps of the way easier and even more enjoyable.</p>
+<p>There are a few exercises and tips that we will show on Sunday (Apr. 15) that we hope will make the steps of the way easier and even more enjoyable.</p>
 <p>Hope to see you there.</p>
 <p>Yours sincerely,</p>
 <p>Gris, the AST Mascot</p>
