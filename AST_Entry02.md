@@ -106,6 +106,9 @@
 <p>Therefore, do not be afraid to search like crazy, as long as you are focused.</p>
 <p>Finally, you may have noticed that we did not talk about interviews or production of statistics. It is true. Future entries will cover your role as an active actor in the production of data, but not this one.</p>
 <p>Next week we’ll show how to filter what’s important and how to organize it properly.</p>
+<p>With luf! ❤️<br>
+Gris<br>
+<img src="https://lh3.googleusercontent.com/0yTPbV6_BfH3xYxCaMhdbGU4sWlOWlj3Edj_VED4BpfmXBI5nKg_Nn408NC9gzUOX4zGhjE6FAA" alt="enter image description here"></p>
 <p><em><strong>Bibliography</strong></em></p>
 <p>Eco, Umberto, Caterina Mongiat Farina, Geoff Farina, e Francesco Erspamer. 2015. How to Write a Thesis. MIT Press. <a href="http://www.jstor.org/stable/j.ctt17kk9g5">http://www.jstor.org/stable/j.ctt17kk9g5</a>.</p>
 <p>“Library Genesis”. [s.d.]. Acessado 11 de abril de 2018. <a href="http://libgen.io/">http://libgen.io/</a>.</p>
@@ -115,4 +118,5 @@
 <p>“Sci-Hub: removing barriers in the way of science”. [s.d.]. Acessado 11 de abril de 2018. <a href="https://sci-hub.tw/">https://sci-hub.tw/</a>.</p>
 <p>Gris, AST. 2018. How to choose a topic. <a href="https://github.com/PauloShinji/AST">https://github.com/PauloShinji/AST</a>.</p>
 <p>“Unpaywall”. [s.d.]. Acessado 11 de abril de 2018. <a href="http://unpaywall.org/">http://unpaywall.org/</a>.</p>
+<p><a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://lh5.googleusercontent.com/RnzZJWZbigStSjBhkDF0tu_escZ--UVz4C3SXxtzD3qzWq68K-E9SI3wKSMlrVzd-wRkBHQsPCD-SGH5EUXyNZ-BfoD_JifwzW1N_jWUKoWKWHqU3Lkl-l4oDbZs9Vau8Nk8xLJk" alt=""></a>This work is licensed under a Creative Commons <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International</a> License.</p>
 
