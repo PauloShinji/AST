@@ -4,7 +4,8 @@
 ---
 
 <h1 id="finding-your-sources">Finding your sources</h1>
-<p>Hello again! I’m happy you came back, and now that you have your thesis <a href="https://github.com/PauloShinji/AST/blob/master/AST_Entry01.md">topic</a> (Gris 2018), it’s time to figure out how to write it!</p>
+<p>Hello again!</p>
+<p>I’m happy you came back, and now that you have your thesis <a href="https://github.com/PauloShinji/AST/blob/master/AST_Entry01.md">topic</a> (Gris 2018), it’s time to figure out how to write it!</p>
 <p><img src="https://media.giphy.com/media/EGwCR2w1QDNm0/giphy.gif" alt="Alt Text"></p>
 <p>Chill, don’t panic. Step by step “pasito a pasito, suave suavecito” (Luis Fonsi 2017).</p>
 <p>Before building an argument, we need to figure out how to get the information, and not just any information, the right information.(Machi e McEvoy 2016)</p>
