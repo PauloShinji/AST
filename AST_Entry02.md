@@ -13,7 +13,7 @@
 <h2 id="theory-stuff-or-“how-to-make-your-supervisor-proud”">Theory Stuff (or, “how to make your supervisor proud”)</h2>
 <h3 id="primary-vs-secondary-sources">Primary vs Secondary sources</h3>
 <p>Primary vs Secondary choices!? Ohh, not again…</p>
-<p><img src="https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif" alt="Alt Text"></p>
+<p><img src="https://media.giphy.com/media/xUPGcmmv7jqdvy2SE8/giphy.gif" alt="Alt Text"></p>
 <p>But why do people talk so much about it? It must have <em>some</em> importance.</p>
 <p><em><strong>It does.</strong></em></p>
 <ul>
@@ -61,7 +61,7 @@
 <p>How?</p>
 <p>With these tools, of course!</p>
 <ul>
-<li><strong><a href="https://kopernio.com/">Kopernio</a></strong> and <strong><a href="http://unpaywall.org/">Unpaywall</a></strong></li>
+<li><strong><a href="https://kopernio.com/">Kopernio</a></strong> and **<a href="http://unpaywall.org/">Unpaywall</a> **</li>
 </ul>
 <p>(Ltd [s.d.]), (“Unpaywall” [s.d.])</p>
 <p>This shows you if you have a way to access the given article for free. And this is legal!</p>
@@ -106,9 +106,9 @@
 <p>Therefore, do not be afraid to search like crazy, as long as you are focused.</p>
 <p>Finally, you may have noticed that we did not talk about interviews or production of statistics. It is true. Future entries will cover your role as an active actor in the production of data, but not this one.</p>
 <p>Next week we’ll show how to filter what’s important and how to organize it properly.</p>
-<p>With luf! ❤️<br>
-Gris<br>
-<img src="https://lh3.googleusercontent.com/0yTPbV6_BfH3xYxCaMhdbGU4sWlOWlj3Edj_VED4BpfmXBI5nKg_Nn408NC9gzUOX4zGhjE6FAA" alt="enter image description here"></p>
+<p>With luf! ❤️</p>
+<p>Gris</p>
+<p><img src="https://lh3.googleusercontent.com/0yTPbV6_BfH3xYxCaMhdbGU4sWlOWlj3Edj_VED4BpfmXBI5nKg_Nn408NC9gzUOX4zGhjE6FAA" alt="enter image description here"></p>
 <p><em><strong>Bibliography</strong></em></p>
 <p>Eco, Umberto, Caterina Mongiat Farina, Geoff Farina, e Francesco Erspamer. 2015. How to Write a Thesis. MIT Press. <a href="http://www.jstor.org/stable/j.ctt17kk9g5">http://www.jstor.org/stable/j.ctt17kk9g5</a>.</p>
 <p>“Library Genesis”. [s.d.]. Acessado 11 de abril de 2018. <a href="http://libgen.io/">http://libgen.io/</a>.</p>
