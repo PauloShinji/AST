@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="dear-incoming-students-welcome">Dear incoming students, welcome!</h1>
+<h1 id="the-degree-planner">The Degree Planner</h1>
 <p>I come in the hopes of offering something that might be useful in this time of planning your academic semester.</p>
 <p>I hereby present to you the <strong>MDEV/MIA Degree Planner</strong>. This sheet was originally created by the amazing @Chelsea, and I have slightly adapted it for your semester. In the sheet, you can input courses and credits to have a better idea of your options.</p>
 <p>The instructions of how to use are in the sheet itself, but I’ll copy paste them here. Type the name of your course in the left cell and the number of credits in the right cell. Type only in the white cells, as colored cells contain formulas</p>
